@@ -1,0 +1,190 @@
+.tudo {
+	width: 975px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+.topo {
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+
+.logotipo {
+	width: 250px;
+	left: 250px;
+}
+
+nav {
+	margin-top: 14px;
+	text-align: center;
+}
+
+nav ul li {
+	display: inline;
+	margin-right: 50px;
+}
+
+nav ul li a {
+	margin-top: 50px;
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	text-decoration: none;
+}
+
+.imagem1 {
+	float: left;
+}
+
+.text_explicativo {
+	width: 325px;
+	left: 500px;
+	text-align: left;
+	float: right;
+	background-color: #c7c7c7;
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 5px;
+}
+
+.imagem2 {
+	float: right;
+}
+
+.email {
+	width: 645px;
+	float: left;
+	text-align: left;
+	padding-top: 4px;
+	padding-left: 200px;
+	padding-right: 30px;
+	padding-bottom: 4px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	background-color: #c7c7c7;
+}
+
+footer {
+	display: inline;
+	clear: both;
+	padding-left: 300px;
+	text-align: center;
+}
+
+.subtopo {
+	width: 100%;
+	color: white;
+	text-align: center;
+	background-color: #242424;
+	padding-top: 1px;
+	padding-bottom: 7px;
+	font-family: monospace;
+}
+
+.descricao_empresa {
+	background-color: #c7c7c7;
+	float: left;
+	width: 315px;
+	left: 500px;
+	text-align: left;
+	padding-top: 38px;
+	padding-left: 22px;
+	padding-right: 22px;
+	padding-bottom: 45px;
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+.descricao_titulo {
+	float: left; width : 100%;
+	text-align: center;
+	padding-top: 1px;
+	padding-bottom: 7px;
+	font-family: monospace;
+	width: 100%;
+}
+
+.imagem5 {
+	margin-top: 5px;
+	float: right;
+	margin-bottom: 20px;
+}
+
+.descricao_imagem1 {
+	float: left;
+}
+
+.descricao_integrantes1 {
+	background-color: #c7c7c7;
+	float: left;
+	width: 700px;
+	left: 500px;
+	text-align: left;
+	padding-top: 38px;
+	padding-left: 22px;
+	padding-right: 22px;
+	padding-bottom: 30px;
+	margin-left: 5px;
+	margin-bottom: 10px;
+}
+
+#perso2 {
+	float: left;
+	width: 643px;	
+}
+
+.descricao_integrante2 {
+	background-color: #c7c7c7;
+	float: right;
+	width: 315px;
+	left: 500px;
+	text-align: left;
+	padding-top: 34px;
+	padding-left: 22px;
+	padding-right: 22px;
+	padding-bottom: 40px;
+	margin-top: 2px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+.map{
+	margin-top: 5px;
+}
+
+.servicos_prestados{
+	margin-top: 20px;
+}
+
+.images_services_juri{
+	float: left;
+	width:400px;
+}
+.images_services_cont{
+	float: left;
+	width:400px;
+	margin-top: 9px;
+}
+.images_services_adm{
+	float: left;
+	width:400px;
+	margin-top: 9px;
+	margin-bottom: 80px;
+}
+
+.descricao_services{
+	width: 58%;
+	left: 500px;
+	text-align: left;
+	float: right;
+	background-color: #c7c7c7;
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 5px;
+}
